@@ -1,0 +1,14 @@
+*.pyc
+*.tmp
+*.data
+config.yml
+tmp*
+*local
+local*
+case*
+config-*
+.env
+tmp*
+data*
+clone*
+__*
